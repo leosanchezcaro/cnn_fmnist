@@ -1,0 +1,16 @@
+# Ignore model weights and checkpoints
+models/
+*.keras
+*.h5
+
+# Ignore jupyter autosaves
+.ipynb_checkpoints/
+
+# Ignore temporary system files
+.DS_Store
+Thumbs.db
+
+# Python cache and logs
+__pycache__/
+*.pyc
+*.log
