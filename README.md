@@ -38,13 +38,22 @@ pip install -r requirements.txt
 
 
 ## Sample Outputs
-
-![Training and Validation Curves](images/acc_n_loss.png)
-
-![Confusion Matrix](images/conf_matrix.png)
-
-![Predictions](images/predictions.png)
-
+<br>
+<p align="center">
+  <img src="images/acc_n_loss.png"/>
+</p>
+<h3 align="center">Training and Validation Curves</h3>
+<br><br><br>
+<p align="center">
+  <img src="images/conf_matrix.png"/>
+</p>
+<h3 align="center"><strong>Confusion Matrix</h3>
+<br><br><br>
+<p align="center">
+  <img src="images/predictions.png"/>
+</p>
+<h3 align="center"><strong>Predictions</h3>
+<br><br>
 
 ## Performance Comparison
 
