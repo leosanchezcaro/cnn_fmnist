@@ -3,7 +3,7 @@
 This project compares two deep learning architectures, a vanilla CNN and a ResNet-inspired CNN, applied to the Fashion-MNIST dataset using TensorFlow/Keras.
 
 The workflow includes data preprocessing, model training, evaluation, and predictions.
-
+Be sure to check the notes on [methodology](methodology_notes.md) for insights about the criteria behind the process.
 
 ## Repository Contents
 
