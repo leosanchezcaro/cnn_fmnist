@@ -65,6 +65,6 @@ pip install -r requirements.txt
 
 ## Author
 
-Leonardo Sánchez-Caro
+Leonardo Sánchez-Caro\
 Hydrogeologist • Data Science Enthusiast
 [(linkedin)](https://www.linkedin.com/in/leonardo-sanchezcaro/)
